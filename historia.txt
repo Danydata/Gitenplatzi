@@ -1,5 +1,5 @@
 Aqui hemos creado una linda cabecera *por segunda vez*
-
+Se modifica el header, no se presentan diseños por ahorrar tiempo al usar HTML y CSS
 
 Un titulo por aqui
 
