@@ -1,5 +1,7 @@
-# Gitenplatzi
-Primer repositorio en github
 
+***Primer repositorio en github***
 
-cambio de titulo depost
+Este repositorio esta instruido por John Fredy Vega
+
+- Solo contiene archivos incompletos de caracter educativo
+1. Y una foto personal :) :fa-heart:
