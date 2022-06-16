@@ -3,5 +3,5 @@
 
 Este repositorio esta instruido por John Fredy Vega
 
-- Solo contiene archivos incompletos de caracter educativo
-1. Y una foto personal :) :fa-heart:
+- SOLO CONTIENE ARCHIVOS INCOMPLETOS DE CARACTER EDUCATIVO
+1. ES UNA EXPLORACION DE GITHUB.
