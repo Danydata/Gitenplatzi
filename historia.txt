@@ -18,6 +18,8 @@ En este parrafo ocurrieron arreglos tipograficos
 
 Main master 1
 
+Main master 2
+
 Aqui se agrego un nuevo parrafo que detalla informacion acerca de mi historia
 Main 1
 Main 2
