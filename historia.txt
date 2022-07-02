@@ -18,3 +18,4 @@ En este parrafo ocurrieron arreglos tipograficos
 
 Aqui se agrego un nuevo parrafo que detalla informacion acerca de mi historia
 Main 1
+Main 2
