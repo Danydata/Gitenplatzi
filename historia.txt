@@ -20,9 +20,6 @@ En este parrafo ocurrieron arreglos tipograficos
 
 
 
-
-
+Main 1
 
 Aqui se agrego un nuevo parrafo que detalla informacion acerca de mi historia
-
-Main 1
