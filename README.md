@@ -11,4 +11,4 @@ Este repositorio esta instruido por John Fredy Vega
 2. ESTA CREADO POR DANY LOPEZ
 3. LA CLASE FUE DE FREDDIER
 4. APRENDIZAJE PARA TODA LA VIDA
->>>>>>> readme-mejorado
+
